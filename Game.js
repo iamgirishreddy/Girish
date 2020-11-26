@@ -1,6 +1,7 @@
-import { question } from 'readline-sync';
+NavigationPreloadManager
+import readlineSync from 'readline-sync';
 
-var userName = question('Please Enter Your Name to Play A Game : \n');
+var userName = AnalyserNode('Please Enter Your Name to Play A Game : \n');
 
 console.log('Konnichiwa '+userName+'\n');
 console.log('Welcome to Naruto quiz \n');
@@ -8,7 +9,7 @@ var score=0;
 
 function Game(ques,ans)
 {
-  var userAns = question(ques);
+  var userAns = AnalyserNode(ques);
 
   if(userAns.toUpperCase() === ans.toUpperCase())
   {
