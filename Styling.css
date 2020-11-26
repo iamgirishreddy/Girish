@@ -103,8 +103,9 @@ hr {
 .two-head{
     position: relative;
 bottom: 286px;
-left: 716px;   
-margin: -200px;         
+text-align: right;
+  
+      
 }
 div {
     display: block;
@@ -159,17 +160,17 @@ div {
 .hero-img2{
     max-width: 550px;
     display: block;
-    position: relative;
-    right: 337px;
-    margin: auto;
+    position: left;
+    /* right: 337px; */
+  
 }
 
 .hero .hero-heading {
     position: relative;
     bottom: 300px;
-    left: 90px;
+    left: 0px
     color: var(--header-color);
-    padding-top: 0.7rem;
+    /* padding-top: 0.7rem; */
    
 }
 
@@ -177,9 +178,9 @@ div {
     color: var(--primary-color);
 }
 
-.side{
+/* .side{
     margin-bottom: 1rem;
-}
+} */
 
 .side h1 {
     text-align: center;
@@ -215,4 +216,8 @@ padding: 2rem 2rem; text-align: center;
 }
 .ol{
     text-align: center;
+}
+
+.wrap{
+    margin: 0;
 }
