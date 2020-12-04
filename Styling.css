@@ -221,3 +221,49 @@ padding: 2rem 2rem; text-align: center;
 .wrap{
     margin: 0;
 }
+
+textarea {
+    width: 80%;
+    height: 10vh;
+    display: block;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+#output {
+    border: 1px solid black;
+    width: 80%;
+    height: 10vh;
+    margin: 1rem;
+    padding: 1rem;
+}
+
+.banana-nav{
+    background-color: var(--primary-color);
+    padding: 3rem;
+    border-top-left-radius: 2rem;
+    color: white;
+   
+    block-size: auto;
+}
+
+.banana-link{
+
+   position: relative;
+   right: 120px;
+    color: var(--primary-color);;
+    font-weight: 900;
+    font-size: 15px;
+    padding: 1rem;
+    border-radius: 0.75rem;
+   text-align: right;
+   
+}
+
+.text-area{
+   border-radius: 00.5rem;
+   padding: 2rem;
+   font-weight: bold;
+   font-style: unset;
+
+}
