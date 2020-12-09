@@ -267,3 +267,7 @@ textarea {
    font-style: unset;
 
 }
+
+.btn-margin{
+    margin: auto;
+}
