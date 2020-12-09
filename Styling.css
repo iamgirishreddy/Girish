@@ -168,7 +168,7 @@ div {
 .hero .hero-heading {
     position: relative;
     bottom: 300px;
-    left: 0px
+    left: 0px;
     color: var(--header-color);
     /* padding-top: 0.7rem; */
    
