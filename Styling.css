@@ -271,30 +271,6 @@ div {
 }
 
 
-.hero-img2{
-    max-width: 550px;
-    display: block;
-    position: left;
-    /* right: 337px; */
-  
-}
-
-.hero .hero-heading {
-    position: relative;
-    bottom: 300px;
-    left: 0px;
-    color: var(--header-color);
-    /* padding-top: 0.7rem; */
-   
-}
-
-.header-span {
-    color: var(--primary-color);
-} */
-
-/* .side{
-    margin-bottom: 1rem;
-} */
 
 .side h1 {
     text-align: center;
